@@ -1,0 +1,21 @@
+
+header , footer {background-color: rgb(88, 193, 193);
+color: rgb(18, 20, 20);
+text-align: center;
+height: 200px;}
+#one{
+    flex: 3;
+    background-color: rgb(166, 127, 233);
+    text-align: center;
+}
+#two{flex: 2;
+background-color: pink;}
+
+section{
+    display: flex;
+}
+header{background-color: rgb(48, 116, 150);}
+img{height: 400px;
+border-image-width: 200px;}
+
+
